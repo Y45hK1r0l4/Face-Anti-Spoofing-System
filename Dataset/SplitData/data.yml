@@ -1,7 +1,7 @@
-path: ../Data
-train: ../train/images
-val: ../val/images
-test: ../test/images
+path: C:\Users\USER\PycharmProjects\AntiSpoofing\DataSet
+train: train/images
+val: val/images
+test: test/images
 
 nc: 2
 names: ['fake', 'real']
