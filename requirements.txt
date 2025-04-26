@@ -1,0 +1,11 @@
+opencv-python
+numpy
+torch
+torchvision
+torchaudio
+ultralytics
+scikit-learn
+mediapipe
+Pillow
+tk
+
