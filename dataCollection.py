@@ -10,7 +10,7 @@ confidence = 0.8
 save = True
 blurThreshold = 40
 
-offsetPercentageW = 10
+offsetpercentageW = 10
 offsetPercentageH = 20
 camwidht, camheight = 640,480
 floatingPoint = 6
