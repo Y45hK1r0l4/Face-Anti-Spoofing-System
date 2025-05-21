@@ -1,5 +1,5 @@
 # Face-Anti-Spoofing-System
-4th Sem AI PBL Project 
+4th Semester Artificial Intelligence PBL Project 
 
 Suraj Sharma Sec A
 Yash Kirola Sec A
