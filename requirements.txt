@@ -5,6 +5,6 @@ torchvision
 torchaudio
 ultralytics
 scikit-learn
-#mediapipe
+mediapipe
 Pillow
 PyQt5

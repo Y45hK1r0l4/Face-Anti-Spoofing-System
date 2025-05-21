@@ -29,6 +29,7 @@ from PyQt5.QtGui import QImage, QPixmap, QFont, QColor, QPalette
 from PyQt5.QtCore import Qt, QTimer, pyqtSignal, QThread
 
 # Constants
+
 USER_DATA_DIR = "user_data"
 FACE_ENCODINGS_FILE = os.path.join(USER_DATA_DIR, "face_encodings.pkl")
 USER_CREDENTIALS_FILE = os.path.join(USER_DATA_DIR, "user_credentials.pkl")
@@ -54,7 +55,7 @@ except Exception as e:
 # Initialize the face detector
 detector = None
 
-
+#function
 def initialize_face_detector():
     try:
         # minDetectionCon: lower values detect more faces but might have false positives
