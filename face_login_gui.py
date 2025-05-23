@@ -27,7 +27,7 @@ from PyQt5.QtWidgets import (
 )
 from PyQt5.QtGui import QImage, QPixmap, QFont, QColor, QPalette
 from PyQt5.QtCore import Qt, QTimer, pyqtSignal, QThread
-
+# gui structure starts from 602
 # Constants
 USER_DATA_DIR = "user_data"
 FACE_ENCODINGS_FILE = os.path.join(USER_DATA_DIR, "face_encodings.pkl")
